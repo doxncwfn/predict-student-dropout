@@ -51,8 +51,7 @@
 \newcommand{\advisor}[1]{\renewcommand{\@advisor}{#1}}
 \newcommand{\@stuname}{
   & Cuong Doan Phuong Hung & ID 2310381\\
-  & Dang Huynh Tran Hoc & ID 2210731\\
-  & Duc Nguyen Le Anh & ID 2210796}
+  & Dang Huynh Tran Hoc & ID 2210731}
 \newcommand{\stuname}[1]{\renewcommand{\@stuname}{#1}}
 \newcommand{\@reportplace}{Ho Chi Minh City}
 \newcommand{\reportplace}[1]{\renewcommand{\@reportplace}{#1}}
