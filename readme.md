@@ -177,18 +177,10 @@ Typical evaluation metrics included:
 
 Include the actual numbers and plots in this section after running experiments.
 
-## Contributing
-
-Contributions are welcome. Please open issues for bugs or feature requests, and create pull requests for proposed changes.
-
-## License
-
-Specify the project license here (e.g., MIT). If no license is present, consider adding one.
-
 ## Contact
 
-Maintainer: doxncwfn
-Email: (add email or other contact method)
+Maintainer: doxncwfnthehcmuter
+Email: doxncwfn@gmail.com
 
 ```
 
