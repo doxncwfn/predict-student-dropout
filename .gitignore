@@ -35,3 +35,4 @@ pics/
 
 # Excalidraw files
 excalidraw/
+__pycache__/
