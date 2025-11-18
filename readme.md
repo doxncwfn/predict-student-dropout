@@ -28,7 +28,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/doxncwfn/predict-student-dropout.git
-cd predict-student-dropout
+cd predict-student-dropout/src
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -151,7 +151,7 @@ docker image prune
 - src/ - Source code (preprocessing, models, training)
 - scripts/ - Utility scripts for running experiments
 - models/ - Saved model artifacts and checkpoints
-- Dockerfile - (optional) Dockerfile used to build the image
+- Dockerfile - Dockerfile used to build the image
 - docker-compose.yml - (optional) Compose file for local container orchestration
 - README.md - This file
 
@@ -181,7 +181,3 @@ Include the actual numbers and plots in this section after running experiments.
 
 Maintainer: doxncwfnthehcmuter
 Email: doxncwfn@gmail.com
-
-```
-
-```
